@@ -1,2 +1,4 @@
 # Trinity Wear
-Primeiro site minimamnete funcionla para testes
+Primeiro site minimamente funcional para testes
+
+completo em HTML e em CSS
